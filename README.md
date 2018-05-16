@@ -2,4 +2,4 @@
 
 ## Goal
 
-Create API to edit a google sheet
+Create REST API to edit a google sheet
