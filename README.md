@@ -1,2 +1,5 @@
 # Sheets-API
-API to edit google sheets
+
+## Goal
+
+Create API to edit a google sheet
